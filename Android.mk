@@ -728,7 +728,7 @@ LOCAL_C_INCLUDES += \
   $(LOCAL_PATH)/src/core \
   $(LOCAL_PATH)/src/gpu \
   $(LOCAL_PATH)/third_party/glu \
-  frameworks/base/opengl/include
+  frameworks/native/opengl/include
 
 LOCAL_LDLIBS += -lpthread
 
@@ -766,7 +766,7 @@ LOCAL_SHARED_LIBRARIES := \
 LOCAL_C_INCLUDES += \
   $(LOCAL_PATH)/third_party/glu \
   $(LOCAL_PATH)/third_party/glu/libtess \
-  frameworks/base/opengl/include
+  frameworks/native/opengl/include
 
 LOCAL_LDLIBS += -lpthread
 
