@@ -510,7 +510,7 @@ LOCAL_C_INCLUDES := \
 	external/giflib \
 	external/jpeg \
 	external/webp/include \
-	frameworks/base/opengl/include \
+	frameworks/native/opengl/include \
 	frameworks/opt/emoji \
 	external/expat/lib
 
